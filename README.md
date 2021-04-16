@@ -37,8 +37,8 @@ Our analysis provided three key differences in weather between June and December
 | 75% | 74.0000 |
 | Max | 83.0000 |
 
-1. Overall, June has higher variables than December. June has a count of 1700, mean of 74.94, and a standard deviation of 3.26. December's count is a 183 less than June and a lower mean and stardard deviation, 71.04 and 3.75 respectively.
+1. Overall, June has higher variables than December. June has a count of 1700 and mean of 74.94. December's count is a 183 less than June and a lower mean, 71.04.
 2. December had a lower max and min compared to June. December's max (83.00) was 2 less than June's max of 85.00. December's minimum totaled to 56.00, while June had a minimum of 64.00 - an eight count difference.
-3. j
+3. When comparing standard deviations, there is a 0.5 difference between the two seasons. June resulted in a standard deviation (std.) of 3.257 while December possed a std. of 3.746.
 
 ## Summary 
