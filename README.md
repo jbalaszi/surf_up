@@ -42,3 +42,4 @@ Our analysis provided three key differences in weather between June and December
 3. When comparing standard deviations, there is a 0.5 difference between the two seasons. June resulted in a standard deviation (std.) of 3.257 while December possed a std. of 3.746.
 
 ## Summary 
+Our analysis gives us and our potential investor an insight on temperature trends which will play a big factor in whether or not our surf and ice cream shop will be profitable. We can run additional queries over our data, such as precipitation, to aid in decisions pretaining to our business venture. Runnning more analysis and queries will also help with future decisions like shop locations and expantion. 
